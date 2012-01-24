@@ -1,0 +1,27 @@
+Hello $person.name
+
+Thank you for your presentation $record at the
+JavaZone 2006 conference. We have now processed the evaluations.
+
+Participants were asked to evaluate five aspects of the presentations
+on a range from 1 to 5 (best). Your presentation received
+${data.get(0)} evaluations in total.
+
+The mean average result for your presentation was:
+Content: ${data.get(1)}
+Usefulness: ${data.get(2)}
+Level: ${data.get(3)}
+Presentation: ${data.get(4)}
+Total impression: ${data.get(5)}
+
+The mean average result for all presentations was:
+Content: 3.66
+Usefulness: 3.36
+Level: 3.77
+Presentation: 3.60
+Total impression: 3.59
+
+We hope to hear from you again next year!
+
+Best regards,
+JavaZone 2006 Program Committee

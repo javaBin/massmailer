@@ -1,0 +1,21 @@
+Dear $person.speakerName,
+
+We are pleased to inform you that your presentation, "$person.presentationName", has been accepted for this year's JavaZone conference. The final program with the time slots has not yet been completed, but we intend to finish this by the middle of August. You will be notified of your time slot in another mail.
+
+We would like to remind you of the following:
+1) Please submit a photo of yourself if you haven't done so already
+2) Please respond to this mail to confirm that it has been received
+3) Please tag your abstract with the tags suggested by our online "SubmitIT" application
+4) There might be some extra feedback from the program committee as a result of the final evaluation
+
+You will also be able to update your abstract if you want to.
+
+The URL to update your abstract is: $person.URL
+
+Please note that our mail response during the summer holidays (in July) will be reduced.
+
+If you have any questions regarding the conference, please feel free to contact the Programme Committee on program@java.no.
+
+Best regards,
+The JavaZone 2009 Program Committee
+     

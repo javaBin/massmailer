@@ -1,0 +1,8 @@
+Hi, $person.speakerName.
+
+During the conference, we ask attendees to rate the presentations and lightning talks that they attend.
+
+Your presentation, "$person.presentationName" has been rated by your audience and you can find how they rated you at $person.URL.
+
+Best regards,
+The JavaZone 2011 Program Committee
