@@ -8,7 +8,6 @@ import java.util.*;
 
 /**
  * Reads evaluation results from a comma separated file.
- * @author Tobias K Torrissen
  */
 public class PersonalizedInfoReader {
 

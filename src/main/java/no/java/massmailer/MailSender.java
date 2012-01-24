@@ -9,10 +9,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 
-/**
- * The actual mailsender class.
- * @author Tobias K Torrissen
- */
 public class MailSender {
 
     /**

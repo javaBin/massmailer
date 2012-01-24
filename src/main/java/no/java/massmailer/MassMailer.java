@@ -9,7 +9,6 @@ import java.io.IOException;
  * The main class of the mass mailer application. Uses the {@link PersonalizedInfoReader} to read evaluations and then
  * the {@link TemplateReader} to read and merge the template with the data. After the mails has been rendered the massmailer
  * use the {@link MailSender} to send the evaluation results.
- * @author Tobias K Torrissen
  */
 public class MassMailer {
 

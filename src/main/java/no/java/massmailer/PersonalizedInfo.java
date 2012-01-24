@@ -4,7 +4,6 @@ import java.util.Map;
 
 /**
  * Result of an evaluation.
- * @author Tobias K Torrissen
  */
 public class PersonalizedInfo {
 

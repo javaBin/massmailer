@@ -1,9 +1,5 @@
 package no.java.massmailer;
 
-/**
- * Simple representation of an email.
- * @author Tobias K Torrissen
- */
 public class MailMsg {
 
     Person recipient;

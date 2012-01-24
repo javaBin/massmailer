@@ -10,7 +10,6 @@ import java.util.ArrayList;
 
 /**
  * Reads a template and merges with data.
- * @author Tobias K Torrissen
  */
 public class TemplateReader {
 
